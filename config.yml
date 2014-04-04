@@ -1,5 +1,5 @@
 wechat_id: inmusichome #replace this with your wechat id
-help_message: your help message
+help_message: Hello! What can I help?
 welcome_message:
   title: In Music Pty Ltd
   picture: http://www.in-music.com.au/inmusic/HebeYogaPoster.jpg
