@@ -1,7 +1,7 @@
 wechat_id: inmusichome #replace this with your wechat id
 help_message: your help message
 welcome_message:
-  title: 微信公众账户开发指南
-  picture: https://mp.weixin.qq.com/cgi-bin/getheadimg?fakeid=3097029212&r=975188&token=1685872554
-  description: 欢迎您关注微信公众账户开发指南
-  link: linkedme.in/2013/09/25/turoial-to-be-wechat-public-account-developer/
+  title: In Music Pty Ltd
+  picture: http://www.in-music.com.au/inmusic/HebeYogaPoster.jpg
+  description: 田馥甄與林宥嘉 Love In Music Concert
+  link: https://admin.wechat.com/cgi-bin/masssendpage?t=wxm-history&token=586645713&action=msgstatus&pagesize=10&pageidx=0&lang=en_US
